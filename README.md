@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&fontColor=ffffff&height=300&section=header&text=Byoungjun&fontSize=90&fontAlign=70)
 
-### Hello, my name is Byungjun Choi. :smile:
+### Hello, my name is Byoungjun Choi. :smile:
 ### I am majoring in computer science at KYUNGHEE University in South Korea.
 ### I'm very interested in mobile programming (especially Android), and I'm studying that field.
 ### And most importantly... I like chicken. :chicken: :chicken: :chicken:
